@@ -1,4 +1,6 @@
 body{
-    text-align: center;
+    text-align: center;color: deeppink;
 }
-#texto{background-color: aquamarine;}
+#texto{
+    background-color: aquamarine;text-align: right;
+}
